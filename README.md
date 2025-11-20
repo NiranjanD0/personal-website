@@ -15,9 +15,8 @@ This is my personal website where I share my work, thoughts, and projects. It is
 - Contact form
 
 ## Deployment
-This website is hosted using Vercel.
+This website is deployed using Vercel.
 
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
