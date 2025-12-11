@@ -1,0 +1,24 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "Website containing my portfolio and other stuff.",
+  "homepage": "https://github.com/NiranjanD0/personal-website#readme",
+  "bugs": {
+    "url": "https://github.com/NiranjanD0/personal-website/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiranjanD0/personal-website.git"
+  },
+  "license": "ISC",
+  "author": "Niranjan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {}
+}
