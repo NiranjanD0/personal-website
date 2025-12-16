@@ -1,0 +1,8 @@
+@theme inline {
+    --font-1: "BBHBogle", sans-serif;
+}
+
+@font-face {
+    font-family: "BBHBogle";
+    src: url("/fonts/BBHBogle-Regular.woff2") format("woff2");
+}
