@@ -1,8 +1,14 @@
 @theme inline {
     --font-bogel: "BBHBogle", sans-serif;
+    --font-titan: "TitanOne", sans-serif;
 }
 
 @font-face {
     font-family: "BBHBogle";
     src: url("/fonts/BBHBogle-Regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "TitanOne";
+    src: url("/fonts/TitanOne-Regular.ttf") format("truetype");
 }
