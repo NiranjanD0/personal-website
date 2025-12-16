@@ -9,7 +9,7 @@ const Navbar = () => {
     };
 
     return (
-        <nav className='z-10 border-b border-white/5 min-w-screen h-13 flex justify-between items-center fixed font-bold text-white/70 bg-black/50 md:backdrop-blur-2xl'>
+        <nav className='z-10 border-b border-white/10 rounded-b-3xl min-w-screen h-13 flex justify-between items-center fixed font-bold text-white/70 bg-black/50 backdrop-blur-2xl md:backdrop-blur-sm'>
 
             <button
                 onClick={() => scrollTo("home")}
